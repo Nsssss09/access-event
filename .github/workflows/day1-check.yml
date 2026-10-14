@@ -66,4 +66,3 @@ jobs:
           
       - name: All checks passed
         run: echo "ALL CHECKS PASSED"
-
